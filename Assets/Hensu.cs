@@ -1,4 +1,4 @@
-using System.Collections;
+Ôªøusing System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,7 +9,7 @@ public class Hensu : MonoBehaviour
     public void Proc()
     {
         float fw=3.14f;
-        string str="Ç±ÇÒÇ…ÇøÇÕ";
+        string str="„Åì„Çì„Å´„Å°„ÅØ";
         bool bl=true;
 
         Debug.Log(a+a);
